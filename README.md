@@ -1,7 +1,7 @@
 This repository showcases two end-to-end Power BI dashboards focused on business performance analytics — one for Blinkit Sales Performance and another for Inventory & Supply Chain Management.
 Both dashboards demonstrate strong analytical thinking, DAX proficiency, and storytelling skills for real-world decision-making.
 
- Project 1: Blinkit Sales Performance Dashboard
+ Project 1: Blinklytics:Blinkit Sales Performance Dashboard
  Overview
 
 This dashboard provides a comprehensive sales analysis for Blinkit, India’s last-minute delivery app.
@@ -41,7 +41,7 @@ Hierarchical filtering and drill-downs
 
 Professional UI design & color consistency
 
- Project 2: Inventory & Supply Chain Analysis Dashboard
+ Project 2: SupplySphere: Inventory & Supply Chain Analysis Dashboard
  Overview
 
 Managing inventory and supply chain operations is crucial for profitability and customer satisfaction.
